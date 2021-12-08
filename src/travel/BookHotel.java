@@ -39,7 +39,7 @@ public class BookHotel extends JFrame implements ActionListener {
 		p1.setLayout(null);
 		add(p1);
 
-		l1 = new JLabel("Book Package");
+		l1 = new JLabel("Book Hotel");
 		l1.setBounds(140, 10, 300, 30);
 		l1.setFont(new FontUIResource("Tahoma", Font.BOLD, 30));
 		l1.setForeground(new ColorUIResource(3, 138, 177));

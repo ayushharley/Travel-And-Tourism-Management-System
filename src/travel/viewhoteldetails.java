@@ -50,7 +50,7 @@ public class viewhoteldetails  extends JFrame implements ActionListener{
 		
 			 l3= new JLabel();
 			    l3.setFont(new FontUIResource("Tahoma",Font.PLAIN,17 ));
-				l3.setBounds(200, 30 ,100 ,25);
+				l3.setBounds(200, 30 ,200 ,25);
 				p1.add(l3);
 
 				 l4= new JLabel("Hotel :");
@@ -60,7 +60,7 @@ public class viewhoteldetails  extends JFrame implements ActionListener{
 		
 				l16= new JLabel();
 			    l16.setFont(new FontUIResource("Tahoma",Font.PLAIN,17 ));
-				l16.setBounds(200, 65 ,150 ,25);
+				l16.setBounds(200, 65 ,250 ,25);
 				p1.add(l16);
 				
 				 l5= new JLabel("Total Person :");
@@ -112,7 +112,7 @@ public class viewhoteldetails  extends JFrame implements ActionListener{
 					
 					 l8= new JLabel();
 				    l8.setFont(new FontUIResource("Tahoma",Font.PLAIN,17 ));
-					l8.setBounds(200, 230 ,100 ,25);
+					l8.setBounds(200, 230 ,200 ,25);
 					p1.add(l8);
 					
 					 l9= new JLabel("ID no :");
