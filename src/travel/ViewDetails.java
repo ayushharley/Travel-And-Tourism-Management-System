@@ -30,7 +30,7 @@ public class ViewDetails extends JFrame implements ActionListener{
 		
 		
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(200,180,760,525);
+		setBounds(300,180,760,525);
 		setLayout(null);
 		
 		
@@ -129,7 +129,8 @@ public class ViewDetails extends JFrame implements ActionListener{
 		p1.add(l9);
 			
 		JLabel l19= new JLabel();
-		l19.setBounds(540, 90 ,150 ,25);
+		l19.setBounds(540, 90 ,170 ,25);
+	    l19.setFont(new FontUIResource("Tahoma",Font.BOLD,12 ));
 		l19.setBorder(BorderFactory.createEmptyBorder());
 		p1.add(l19);
 		

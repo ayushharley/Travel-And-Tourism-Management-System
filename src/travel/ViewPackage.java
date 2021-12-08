@@ -22,7 +22,7 @@ public class ViewPackage extends JFrame implements ActionListener{
 	 private JButton b1;
 	ViewPackage(String username){
 		
-		setBounds(300,200,850,430);
+		setBounds(350,200,850,430);
 		setLayout(null);
 			
 		
@@ -47,7 +47,7 @@ public class ViewPackage extends JFrame implements ActionListener{
 		
 			 l3= new JLabel();
 			    l3.setFont(new FontUIResource("Tahoma",Font.PLAIN,17 ));
-				l3.setBounds(200, 30 ,100 ,25);
+				l3.setBounds(200, 30 ,200 ,25);
 				p1.add(l3);
 
 				 l4= new JLabel("Selected Package :");

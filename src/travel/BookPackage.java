@@ -51,7 +51,7 @@ public class BookPackage extends JFrame implements ActionListener{
 
 		 l3= new JLabel();
 	    l3.setFont(new FontUIResource("Tahoma",Font.PLAIN,17 ));
-		l3.setBounds(200, 30 ,100 ,25);
+		l3.setBounds(200, 30 ,200 ,25);
 		p1.add(l3);
 
 		 l4= new JLabel("Select Package :");

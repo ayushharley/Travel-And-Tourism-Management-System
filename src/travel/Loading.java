@@ -15,7 +15,7 @@ public class Loading extends JFrame implements Runnable{
 	public Loading(String user) {
 		t=new Thread(this);
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(400,200,600,400);
+		setBounds(500,260,600,400);
 		setLayout(null);
 		
 		JLabel l1= new JLabel("Travel And Tourism App");
@@ -38,7 +38,7 @@ public class Loading extends JFrame implements Runnable{
 		 username=user;
 		JLabel l3= new JLabel("Welcome " + username);
 		l3.setFont(new Font("Tohimo",Font.BOLD,16));
-		l3.setBounds(30,310,200,30);
+		l3.setBounds(30,310,400,30);
 		l3.setForeground(new ColorUIResource(255, 0, 0));
 		add(l3);
 		

@@ -77,7 +77,7 @@ public class CheckHotels extends JFrame implements Runnable {
 	}
 	
 	public CheckHotels() {
-		setBounds(400,200,700,520);
+		setBounds(440,200,700,520);
 		setLayout(null);
 		 
 		//thread reference

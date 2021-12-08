@@ -22,7 +22,7 @@ public Paytm() {
 	
 	
 	add(j);
-	setBounds(200,200,600,600);
+	setBounds(300,200,600,600);
 	
 	//for scroll 
 	 JScrollPane scrollPane = new JScrollPane(j);     

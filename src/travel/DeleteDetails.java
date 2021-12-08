@@ -24,7 +24,7 @@ public class DeleteDetails extends JFrame implements ActionListener{
 	this.username=username;
 	
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(200,180,900,550);
+		setBounds(300,180,900,550);
 		setLayout(null);
 		
 		JLabel l21= new JLabel("Delete Personal Details");

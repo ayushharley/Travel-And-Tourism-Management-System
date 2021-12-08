@@ -25,7 +25,7 @@ public class viewhoteldetails  extends JFrame implements ActionListener{
 	 private JButton b1;
 	 viewhoteldetails (String username){
 		
-		setBounds(300,200,850,530);
+		setBounds(350,200,850,530);
 		setLayout(null);
 			
 		

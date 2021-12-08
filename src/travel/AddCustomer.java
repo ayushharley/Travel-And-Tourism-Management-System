@@ -32,7 +32,7 @@ public class AddCustomer extends JFrame implements ActionListener{
 		
 		
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(200,180,800,490);
+		setBounds(400,180,800,490);
 		setLayout(null);
 		
 		

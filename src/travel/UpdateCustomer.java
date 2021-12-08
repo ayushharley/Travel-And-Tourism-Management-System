@@ -35,7 +35,7 @@ public class UpdateCustomer extends JFrame implements ActionListener{
 		
 	
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(200,180,800,520);
+		setBounds(300,180,800,520);
 		setLayout(null);
 		
 		JLabel l11= new JLabel("Update Personal Details");

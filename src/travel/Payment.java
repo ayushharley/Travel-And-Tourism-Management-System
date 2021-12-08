@@ -16,7 +16,7 @@ import java.awt.event.ActionListener;
 public class Payment extends JFrame implements ActionListener{
 JButton b1,b2;
 	public Payment() {
-		setBounds(200,200,850,530);
+		setBounds(350,200,850,530);
 		setLayout(null);
 		getContentPane().setBackground(Color.WHITE);
 		

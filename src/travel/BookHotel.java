@@ -30,7 +30,7 @@ public class BookHotel extends JFrame implements ActionListener {
 
 	public BookHotel(String username) {
 		getContentPane().setBackground(new ColorUIResource(255, 255, 255));
-		setBounds(200, 180, 950, 510);
+		setBounds(300, 180, 950, 510);
 		setLayout(null);
 
 		JPanel p1 = new JPanel();

@@ -18,7 +18,7 @@ public class Signup extends JFrame implements ActionListener {
 	
 	Signup(){
 		getContentPane().setBackground(new ColorUIResource(255,255,255));
-		setBounds(200,220,800,350);
+		setBounds(250,250,800,350);
 		setLayout(null);
 		
 	JPanel p1= new JPanel();

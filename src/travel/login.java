@@ -23,7 +23,7 @@ public login() {
 //	setLocation(400,200);
 	
 	getContentPane().setBackground(new ColorUIResource(255,255,255));
-	setBounds(200,200,900,400);
+	setBounds(250,200,900,400);
 	
 	//jpanel
 	
